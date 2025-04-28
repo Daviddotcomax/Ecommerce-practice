@@ -1,0 +1,37 @@
+.navbar img {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar {
+  background-color: #883005d5;
+
+
+}
+
+.nav-link{
+    color: white !important;
+}
+
+/* .active{
+    color: red !important;
+} */
+
+.navbar-toggler{
+    margin-right: 50px !important;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.cart{
+    color: white !important;
+    font-size: 20px;
+}
+
+.cartnumber{
+    color:red
+}
